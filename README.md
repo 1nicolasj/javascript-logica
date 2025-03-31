@@ -1,6 +1,6 @@
 # Projetos de Lógica de JavaScript
 
-Este repositório contém 8 projetos simples feitos durante uma aula de Lógica de Programação em JavaScript na faculdade. Cada pasta contém um exercício que explora diferentes conceitos de JavaScript, como manipulação de DOM, funções e interatividade.
+Este repositório contém 8 projetos simples feitos durante uma aula de Lógica de Programação em JavaScript na faculdade.
 
 ## Projetos
 
